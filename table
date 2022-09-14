@@ -9,7 +9,7 @@
 <body>
 <table  border=1 style="border:2px solid black;">
 	<tr style="border:1px solid red;">
-		<th>Heading</th>
+		<th width="70%">Heading</th>
 		<th>Heading</th>
 		<th>Heading</th>
 	</tr>
