@@ -20,3 +20,7 @@
 </form>
 </body>
 </html>
+
+
+<option value="2" selected>swift</options>		 #to show fisrt on gropdown colmn
+<select id="cars" name="cars" size=2 multiple>		 #to show multiple
