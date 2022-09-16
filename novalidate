@@ -1,0 +1,16 @@
+<html>
+<body>
+
+<h1>The form novalidate attribute</h2>
+
+<p>The novalidate attribute indicates the the form input is not to be validated on submit:</p>
+
+
+
+<form action ="/action_page.php" novalidate>
+	<label for="email">Email:</label><br>
+	<input type="text" id="email" name="email"><br><br>
+	<input type="submit">
+</form>
+</body>
+</html>
