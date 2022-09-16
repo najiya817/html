@@ -1,0 +1,22 @@
+<html>
+<body>
+
+<h1>The select Element</h2>
+
+<p>The select element defines a drop-down list:</p>
+
+<p>Then, try to set autocomplete to "off"</p>
+
+<form action ="/action_page.php">
+	
+	<label for="cars">Choose a car:</label><br>
+	<select id="cars" name="cars">
+	<option value="1">Fiat</options>
+	<option value="2">swift</options>
+	<option value="3">Rangerover</options>
+	<option value="4">jaguar</options>
+	</select>
+	<input type="submit">
+</form>
+</body>
+</html>
