@@ -1,0 +1,21 @@
+get= chance to data lose,not encrypted
+post=no chance,encrypted 
+
+
+<html>
+<body>
+
+<h2>The method attribute</h2>
+
+<p>This form wil be submitted using the GET method:</p>
+<form action ="/action_page.php" methos="get">
+	<label for="fname">First Name</label><br>
+	<input type="text" id="fname" name="fname" value="John"><br>
+	<label for="lname">Last Name</label><br>
+	<input type="text" id="lname" name="lname" value="Doe"><br><br>
+	<input type=""submit value="submit">
+</form>
+
+<p>After you submit,notice that the form values will be visible in the address bar of the new browser tab</p>
+</body>
+</html>
