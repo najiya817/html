@@ -1,0 +1,32 @@
+
+<html>
+<head>
+<style >
+body{
+	background-image:url("tree.jpg")  ;
+	background-repeat:no-repeat;
+	background-size:1350px 550px;
+	}
+
+div {
+	background-color:green;
+	opacity:1`;
+    }
+div.first{
+	opacity:0.3;
+	}
+div.second{
+	opacity:0.6;
+	}
+div.third{
+	opacity:1;
+	}
+</head>
+</style>
+<body>
+<div class="first"><h1>opacity 0.3</h1></div>
+<div class="second"><h1>opacity 0.6</h1></div>
+<div class="third"><h1>opacity 1</h1></div>
+</body>
+</html>
+
