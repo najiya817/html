@@ -12,7 +12,9 @@ p.dotted {border-style:dotted;}
 
 
 
-p.dotted {border:5px dotted red;}
+#p.dotted {border:5px dotted red;}
+#p.dotted {border-style:dotted dashed solid double;}
+#p.dotted {border-style:dotted none solid none;}
 
 -----------border styles----------------
 1.dotted
@@ -25,4 +27,4 @@ p.dotted {border:5px dotted red;}
 7.outset
 8.none
 9.hidden
-10.dotted dashed solid double}mixed
+10.dotted dashed solid double }mixed  clockwise
