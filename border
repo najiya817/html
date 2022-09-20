@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+p.dotted {border-style:dotted;}
+</style>
+</head>
+<body>
+<p class="dotted">dotted border</p>
+</body>
+</html>
+
+
+-----------border styles----------------
+1.dotted
+2.dashed
+3.solid
+4.double
+5.groove
+5.ridge
+6.inset
+7.outset
+8.none
+9.hidden
+10.dotted dashed solid double}mixed
